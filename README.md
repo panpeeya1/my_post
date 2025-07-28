@@ -1,4 +1,8 @@
 # my_post
+
+pip install gspread google-auth
+
+
 from google.oauth2 import service_account
 from google.cloud import storage
 from google.auth.transport.requests import Request
